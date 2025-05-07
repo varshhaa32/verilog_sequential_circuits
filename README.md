@@ -4,8 +4,8 @@ This repository contains Verilog implementations of fundamental sequential circu
 
 ## 🧠 Contents
 
-- SR Latch
-- SR Flip-Flop 
+- **SR Latch**
+- **SR Flip-Flop** 
 - **D Latch**
 - **D Flip-Flop**
 - **T Flip-Flop**
